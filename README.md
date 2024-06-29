@@ -1,1 +1,1 @@
-# This is my GUI based calculator app whoch perform basic arthimatic operations
+# This is my GUI based calculator app which perform basic arthimatic operations
